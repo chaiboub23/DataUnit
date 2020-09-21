@@ -1,3 +1,4 @@
 # DataUnit
 
-Started to work on own CSV file check data.py for more info.
+Started work on analyzing a CSV file containing data about the NBA from 1996-2019.
+I am using pandas for data manipulation and plotly for graphing.
